@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N8AgsM8bkamPS9y6wUxkp1irX6FesIPgbcZ1kdGfTQo=",
+  "Source": "ElectricityPriceMonitorMS",
+  "BasePath": "_content/ElectricityPriceMonitorMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

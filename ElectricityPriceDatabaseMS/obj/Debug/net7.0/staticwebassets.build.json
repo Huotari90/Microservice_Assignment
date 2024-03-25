@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SluPwEEC7IECjgmoTa7xA7jQp2oexNZUZCCdstwkPHE=",
+  "Source": "ElectricityPriceDatabaseMS",
+  "BasePath": "_content/ElectricityPriceDatabaseMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
